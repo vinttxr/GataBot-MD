@@ -12,9 +12,9 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],  
-  ['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
-  ['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
+  ['523337999451', '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍', true],  
+  ['523337889542', 'KAYN (1) 💻', true],
+  ['523223777688', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
   ['5218442286089', 'DIEGO-OFC | COLABO', true],
   ['59894808483'],
   ['584125778026'],
@@ -107,26 +107,26 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['5491173694367', 'Prueba', 1]] 
+['523337999451', '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍', 1], 
+['523337889542', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['523223777688', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['', 'Prueba', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍'
+global.author = 'BOT KAYN'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
@@ -145,32 +145,32 @@ global.nnnttt2 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/523337889542' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
-global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱💙⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱💙⊱╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ *𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 | 𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱🐳⊱ *𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 | 𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⊱🐳⊱╮\n\n'
 global.advertencia = ag
 
 global.iig = '╰⊱❕⊱ *𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊́𝙉 | 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉* ⊱⊱╮\n\n'
 global.informacion = iig
 
-global.fg = '╰⊱❌⊱ *𝙁𝘼𝙇𝙇𝙊́ | 𝙀𝙍𝙍𝙊𝙍* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱🧿⊱ *𝙁𝘼𝙇𝙇𝙊́ | 𝙀𝙍𝙍𝙊𝙍* ⊱🧿⊱╮\n\n'
 global.fallo = fg
 
-global.mg = '╰⊱❗️⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇 | 𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ⊱❗️⊱╮\n\n'
+global.mg = '╰⊱🧊⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇 | 𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ⊱🧊⊱╮\n\n'
 global.mal = mg
 
-global.eeg = '╰⊱📩⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀 | 𝙍𝙀𝙋𝙊𝙍𝙏* ⊱📩⊱╮\n\n'
+global.eeg = '╰⊱💤⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀 | 𝙍𝙀𝙋𝙊𝙍𝙏* ⊱💤⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱🏴󠁧󠁢󠁳󠁣󠁴󠁿⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱🏴󠁧󠁢󠁳󠁣󠁴󠁿⊱╮\n\n'
 global.exito = eg
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
@@ -179,13 +179,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.wm = '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍 : BOT KAYN SCHORDER'
+global.igfg = '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍'
+global.wait = '*💧 _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*💧 _Cargando | Charging..._ ▬▬▭▭▭*'
+global.waittt = '*💧 _Cargando | Charging..._ ▬▬▬▬▭▭*'
+global.waitttt = '*💧 _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
+global.nomorown = '523337889542'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
